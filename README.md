@@ -16,8 +16,8 @@
 [![Dilan's github stats](https://github-readme-stats.vercel.app/api?username=dilansalinda&count_private=true&show_icons=true&theme=algolia)](https://dilansalinda.github.io)	
 <br>
 <br>
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{dilansalinda}/count.svg)
+**Visitors Views**  
+![Views](https://ghtb-counter.vercel.app/api/counter?username=dilansalinda&label=Views&color=6366f1&labelColor=555555&labelBgColor=eeeeee&countColor=ffffff&style=for-the-badge)
 
 
 https://dilansalinda.github.io
