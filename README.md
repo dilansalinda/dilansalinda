@@ -6,9 +6,9 @@
 
 ### 🧑‍💻 About me
 
-- :computer: Software Engineer in Sri Lanka
-- :hammer_and_wrench: I build things for the web.|
-- :writing_hand: Write technical blogs on [Medium](https://medium.com/@dilansalinda)
+- :computer: Software Engineer in Sri Lanka.
+- :hammer_and_wrench: I build things for the web
+- :writing_hand: Write technical blogs on [Medium](https://medium.com/@dilansalinda).
 - ⚡ I enjoy: Traveling :)
 ---
 ### 🛠️ Languages and Tools
