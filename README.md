@@ -48,6 +48,10 @@
   
 ---
 
+
+[![Dilan's github stats](https://github-readme-stats.vercel.app/api?username=dilansalinda&count_private=true&show_icons=true&theme=algolia)](https://dilansalinda.github.io)	
+
+
 <img src="https://komarev.com/ghpvc/?username=dilansalinda&style=for-the-badge&color=blue" alt=""/>
 
  [More..](https://dilansalinda.github.io)
